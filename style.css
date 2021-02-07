@@ -1,0 +1,19 @@
+.colorDiv {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type: none;
+    margin: 0.1rem;
+    padding: 0.1rem;
+}
